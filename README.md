@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Emirhan+Eksen" alt="Typing Name SVG" />
+  
+  <br>
 
-<!--
-**emirhneks/emirhneks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing Title SVG" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://emirhan.link">
+    <img src="https://img.shields.io/badge/🌐_Tüm_Bağlantılarım:_emirhan.link-1A1B27?style=for-the-badge&logoColor=white&color=1A1B27&labelColor=1A1B27" alt="emirhan.link" />
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,kotlin,cs,md&theme=dark" alt="Tech Stack Row 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,vite,tailwind,bootstrap&theme=dark" alt="Tech Stack Row 2" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,supabase,appwrite,postman,regex,npm,pnpm&theme=dark" alt="Tech Stack Row 3" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,docker,cloudflare,vercel,git,github,vscode,androidstudio&theme=dark" alt="Tech Stack Row 4" />
+</div>
