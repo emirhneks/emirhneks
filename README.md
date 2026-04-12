@@ -3,9 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Software Developer Title" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=emirhneks&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile Views Counter" />
+    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=emirhneks&compact=false&height=30" alt="Profile Views Counter" />
+    <a href="https://github.com/emirhneks">
+      <img src="https://icon.mzrdev.com/social?variant=github-followers&username=emirhneks&height=30" alt="GitHub Followers" />
+    </a>
     <a href="https://emirhan.link">
-      <img src="https://img.shields.io/badge/🌐_MY_LINKS-1A1B27?style=flat-square&logoColor=white" alt="My Links - emirhan.link" />
+      <img src="https://icon.mzrdev.com/badge?icon=Globe-Light&text=My%20Links&height=30" alt="My Links - emirhan.link" />
     </a>
   </p>
 </div>
@@ -44,8 +47,8 @@
   <img src="https://icon.mzrdev.com/badge?icon=Appwrite&height=30" alt="Appwrite" />
   <img src="https://icon.mzrdev.com/badge?icon=Postman&height=30" alt="Postman" />
   <img src="https://icon.mzrdev.com/badge?icon=Regex-Dark&height=30" alt="Regex" />
-  <img src="https://icon.mzrdev.com/badge?icon=Npm-Dark&height=30" alt="NPM" />
-  <img src="https://icon.mzrdev.com/badge?icon=Pnpm-Dark&height=30" alt="PNPM" />
+  <img src="https://icon.mzrdev.com/badge?icon=NPM-Dark&height=30" alt="NPM" />
+  <img src="https://icon.mzrdev.com/badge?icon=PNPM-Dark&height=30" alt="PNPM" />
 
   <br>
 
@@ -57,7 +60,7 @@
   <img src="https://icon.mzrdev.com/badge?icon=Cloudflare-Dark&height=30" alt="Cloudflare" />
   <img src="https://icon.mzrdev.com/badge?icon=Vercel-Dark&height=30" alt="Vercel" />
   <img src="https://icon.mzrdev.com/badge?icon=Git&height=30" alt="Git" />
-  <img src="https://icon.mzrdev.com/badge?icon=Github-Dark&height=30" alt="GitHub" />
+  <img src="https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=30" alt="GitHub" />
   <img src="https://icon.mzrdev.com/badge?icon=VSCode-Dark&height=30" alt="VSCode" />
   <img src="https://icon.mzrdev.com/badge?icon=AndroidStudio-Dark&height=30" alt="Android Studio" />
 </div>
