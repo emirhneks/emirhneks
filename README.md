@@ -3,13 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Software Developer Title" />
 
   <p align="center">
-    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=emirhneks&compact=false&height=30" alt="Profile Views Counter" />
-    <a href="https://github.com/emirhneks">
-      <img src="https://icon.mzrdev.com/social?variant=github-followers&username=emirhneks&height=30" alt="GitHub Followers" />
-    </a>
-    <a href="https://emirhan.link">
-      <img src="https://icon.mzrdev.com/badge?icon=Globe-Light&text=My%20Links&height=30" alt="My Links - emirhan.link" />
-    </a>
+    <img src="https://icon.mzrdev.com/social?variant=profile-views&username=emirhneks&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/emirhneks"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=emirhneks&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://emirhan.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=My%20Links&height=30" alt="My Links - emirhan.link" /></a>
   </p>
 </div>
 
