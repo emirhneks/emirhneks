@@ -62,5 +62,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhneks&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="180" alt="GitHub Streak Stats" />
+  <img src="https://icon.mzrdev.com/stats?username=emirhneks&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
 </div>
