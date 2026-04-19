@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://icon.mzrdev.com/typing?text=Emirhan%20Eksen&font=Fira%20Code&fontWeight=600&fontSize=32&pause=1000&color=FFFFFF&align=center&width=600&showCursor=false" alt="Emirhan Eksen Name Header" />
-  <img src="https://icon.mzrdev.com/typing?text=Software%20Developer&font=Fira%20Code&fontWeight=600&fontSize=24&pause=1000&color=38BDF8&align=center&width=500&showCursor=false" alt="Software Developer Title" />
+  <img src="https://icon.mzrdev.com/typing?text=Emirhan%20Eksen&fontWeight=600&fontSize=32&pause=1000&color=FFFFFF&align=center&width=600&showCursor=false" alt="Emirhan Eksen Name Header" />
+  <img src="https://icon.mzrdev.com/typing?text=Software%20Developer&fontWeight=600&fontSize=24&pause=1000&color=38BDF8&align=center&width=500&showCursor=false" alt="Software Developer Title" />
 
   <p align="center">
     <img src="https://icon.mzrdev.com/social?variant=profile-views&username=emirhneks&compact=false&height=30" alt="Profile Views Counter" />&nbsp;<a href="https://github.com/emirhneks"><img src="https://icon.mzrdev.com/social?variant=github-followers&username=emirhneks&height=30" alt="GitHub Followers" /></a>&nbsp;<a href="https://emirhan.link"><img src="https://icon.mzrdev.com/badge?icon=Globe-Dark&text=My%20Links&height=30" alt="My Links - emirhan.link" /></a>
@@ -60,6 +60,10 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://icon.mzrdev.com/trophy?username=emirhneks&noBackground=true&sponsor=true&description=false" alt="Emirhan's GitHub Trophies" />
+</div>
 
 <div align="center">
   <img src="https://icon.mzrdev.com/stats?username=emirhneks&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" height="180" alt="GitHub Streak Stats" />
